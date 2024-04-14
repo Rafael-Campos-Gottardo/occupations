@@ -1,0 +1,418 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2758
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \
+\{\
+  "results": [\
+    \{\
+      "id": 1,\
+      "text": "Aboriginal band chief"\
+    \},\
+    \{\
+      "id": 2,\
+      "text": "Aboriginal band council member"\
+    \},\
+    \{\
+      "id": 3,\
+      "text": "Alderman/woman"\
+    \},\
+    \{\
+      "id": 4,\
+      "text": "Attorney general"\
+    \},\
+    \{\
+      "id": 5,\
+      "text": "Cabinet minister"\
+    \},\
+    \{\
+      "id": 6,\
+      "text": "City alderman"\
+    \},\
+    \{\
+      "id": 7,\
+      "text": "City councillor"\
+    \},\
+    \{\
+      "id": 8,\
+      "text": "City councilman/woman"\
+    \},\
+    \{\
+      "id": 9,\
+      "text": "Councillor"\
+    \},\
+    \{\
+      "id": 10,\
+      "text": "First Nations band chief"\
+    \},\
+    \{\
+      "id": 11,\
+      "text": "First Nations band council member"\
+    \},\
+    \{\
+      "id": 12,\
+      "text": "First Nations government leader"\
+    \},\
+    \{\
+      "id": 13,\
+      "text": "Government leader"\
+    \},\
+    \{\
+      "id": 14,\
+      "text": "Governor general"\
+    \},\
+    \{\
+      "id": 15,\
+      "text": "Leader of the opposition"\
+    \},\
+    \{\
+      "id": 16,\
+      "text": "Legislative body speaker"\
+    \},\
+    \{\
+      "id": 17,\
+      "text": "Legislator"\
+    \},\
+    \{\
+      "id": 18,\
+      "text": "Lieutenant-governor"\
+    \},\
+    \{\
+      "id": 19,\
+      "text": "Mayor"\
+    \},\
+    \{\
+      "id": 20,\
+      "text": "Member of Legislative Assembly (MLA)"\
+    \},\
+    \{\
+      "id": 21,\
+      "text": "Member of Parliament (MP)"\
+    \},\
+    \{\
+      "id": 22,\
+      "text": "Member of the House of Assembly (MHA)"\
+    \},\
+    \{\
+      "id": 23,\
+      "text": "Member of the National Assembly (MNA)"\
+    \},\
+    \{\
+      "id": 24,\
+      "text": "Member of the Provincial Parliament (MPP)"\
+    \},\
+    \{\
+      "id": 25,\
+      "text": "Metropolitan council chair"\
+    \},\
+    \{\
+      "id": 26,\
+      "text": "Municipal council chairman/woman"\
+    \},\
+    \{\
+      "id": 27,\
+      "text": "Opposition leader"\
+    \},\
+    \{\
+      "id": 28,\
+      "text": "Orator - government"\
+    \},\
+    \{\
+      "id": 29,\
+      "text": "Premier"\
+    \},\
+    \{\
+      "id": 30,\
+      "text": "Prime minister"\
+    \},\
+    \{\
+      "id": 31,\
+      "text": "Reeve"\
+    \},\
+    \{\
+      "id": 32,\
+      "text": "Regional municipality chair"\
+    \},\
+    \{\
+      "id": 33,\
+      "text": "School board trustee"\
+    \},\
+    \{\
+      "id": 34,\
+      "text": "Senator"\
+    \},\
+    \{\
+      "id": 35,\
+      "text": "Solicitor general"\
+    \},\
+    \{\
+      "id": 36,\
+      "text": "Treasury Board president"\
+    \},\
+    \{\
+      "id": 37,\
+      "text": "Ambassador"\
+    \},\
+    \{\
+      "id": 38,\
+      "text": "Assistant chief statistician - government services"\
+    \},\
+    \{\
+      "id": 39,\
+      "text": "Assistant comptroller general - government services"\
+    \},\
+    \{\
+      "id": 40,\
+      "text": "Assistant deputy minister"\
+    \},\
+    \{\
+      "id": 41,\
+      "text": "Assistant deputy minister - government services"\
+    \},\
+    \{\
+      "id": 42,\
+      "text": "Assistant executive director - government services"\
+    \},\
+    \{\
+      "id": 43,\
+      "text": "Assistant general director - government services"\
+    \},\
+    \{\
+      "id": 44,\
+      "text": "Assistant undersecretary of state"\
+    \},\
+    \{\
+      "id": 45,\
+      "text": "Band manager - First Nations"\
+    \},\
+    \{\
+      "id": 46,\
+      "text": "Chairman/woman - government services"\
+    \},\
+    \{\
+      "id": 47,\
+      "text": "Chairperson - government services"\
+    \},\
+    \{\
+      "id": 48,\
+      "text": "Chief - disaster management"\
+    \},\
+    \{\
+      "id": 49,\
+      "text": "Chief administrative officer - government services"\
+    \},\
+    \{\
+      "id": 50,\
+      "text": "Chief administrative officer - regional municipality"\
+    \},\
+    \{\
+      "id": 51,\
+      "text": "Chief coroner"\
+    \},\
+    \{\
+      "id": 52,\
+      "text": "Chief electoral officer"\
+    \},\
+    \{\
+      "id": 53,\
+      "text": "Chief medical examiner"\
+    \},\
+    \{\
+      "id": 54,\
+      "text": "Chief privacy officer - government services"\
+    \},\
+    \{\
+      "id": 55,\
+      "text": "Chief statistician - government services"\
+    \},\
+    \{\
+      "id": 56,\
+      "text": "City administrator"\
+    \},\
+    \{\
+      "id": 57,\
+      "text": "City hall clerk"\
+    \},\
+    \{\
+      "id": 58,\
+      "text": "City manager"\
+    \},\
+    \{\
+      "id": 59,\
+      "text": "City superintendent"\
+    \},\
+    \{\
+      "id": 60,\
+      "text": "Clerk of the House of Commons"\
+    \},\
+    \{\
+      "id": 61,\
+      "text": "Clerk of the Privy Council"\
+    \},\
+    \{\
+      "id": 62,\
+      "text": "Commissioner - government services"\
+    \},\
+    \{\
+      "id": 63,\
+      "text": "Commissioner of inquiries"\
+    \},\
+    \{\
+      "id": 64,\
+      "text": "Commissioner of inquiries - government services"\
+    \},\
+    \{\
+      "id": 65,\
+      "text": "Comptroller general - government services"\
+    \},\
+    \{\
+      "id": 66,\
+      "text": "Comptroller general of Canada"\
+    \},\
+    \{\
+      "id": 67,\
+      "text": "Consul"\
+    \},\
+    \{\
+      "id": 68,\
+      "text": "Council secretary - government services"\
+    \},\
+    \{\
+      "id": 69,\
+      "text": "County clerk"\
+    \},\
+    \{\
+      "id": 70,\
+      "text": "Deputy commissioner - government services"\
+    \},\
+    \{\
+      "id": 71,\
+      "text": "\
+\
+Deputy minister"\
+    \},\
+    \{\
+      "id": 72,\
+      "text": "Deputy minister - government services"\
+    \},\
+    \{\
+      "id": 73,\
+      "text": "Deputy municipal clerk"\
+    \},\
+    \{\
+      "id": 74,\
+      "text": "Deputy provincial secretary - government services"\
+    \},\
+    \{\
+      "id": 75,\
+      "text": "Director general - government services"\
+    \},\
+    \{\
+      "id": 76,\
+      "text": "Employment insurance appeals board chairperson"\
+    \},\
+    \{\
+      "id": 77,\
+      "text": "Employment insurance commissioner"\
+    \},\
+    \{\
+      "id": 78,\
+      "text": "Executive administrator - government agency"\
+    \},\
+    \{\
+      "id": 79,\
+      "text": "Executive administrator - government department"\
+    \},\
+    \{\
+      "id": 80,\
+      "text": "Executive director - emergency preparedness"\
+    \},\
+    \{\
+      "id": 81,\
+      "text": "Executive director - government services"\
+    \},\
+    \{\
+      "id": 82,\
+      "text": "Fire marshal"\
+    \},\
+    \{\
+      "id": 83,\
+      "text": "First Nations band manager"\
+    \},\
+    \{\
+      "id": 84,\
+      "text": "General manager - government services"\
+    \},\
+    \{\
+      "id": 85,\
+      "text": "General secretary - government services"\
+    \},\
+    \{\
+      "id": 86,\
+      "text": "Government agency commissioner"\
+    \},\
+    \{\
+      "id": 87,\
+      "text": "Government agency president"\
+    \},\
+    \{\
+      "id": 88,\
+      "text": "Government agency senior administrator"\
+    \},\
+    \{\
+      "id": 89,\
+      "text": "Grain commissioner"\
+    \},\
+    \{\
+      "id": 90,\
+      "text": "Health commissioner"\
+    \},\
+    \{\
+      "id": 91,\
+      "text": "High commissioner"\
+    \},\
+    \{\
+      "id": 92,\
+      "text": "Highway commissioner"\
+    \},\
+    \{\
+      "id": 93,\
+      "text": "Human Rights Commission chairperson"\
+    \},\
+    \{\
+      "id": 94,\
+      "text": "Inspector general of financial institutions"\
+    \},\
+    \{\
+      "id": 95,\
+      "text": "Liquor commissioner"\
+    \},\
+    \{\
+      "id": 96,\
+      "text": "Local government manager"\
+    \},\
+    \{\
+      "id": 97,\
+      "text": "Manager - First Nations"\
+    \},\
+    \{\
+      "id": 98,\
+      "text": "Municipal administrator"\
+    \},\
+    \{\
+      "id": 99,\
+      "text": "Ombudsperson - government services"\
+    \},\
+    \{\
+      "id": 100,\
+      "text": "Parole board chairman/woman"\
+    \}\
+  ],\
+  "pagination": \{\
+    "more": true\
+  \}\
+\}\
+}
